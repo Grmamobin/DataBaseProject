@@ -98,7 +98,7 @@ And as in Chapter 4 (I mean "Entity versus Attribute") in this part I have treat
 
 
   ## EER Diagrams 🎨
-  <img src="img/EER.png" alt="Media Streaming Service">
+  <img src="img/EER.svg" alt="Media Streaming Service">
   
   ## UML Diagrams 🎨
-  <img src="img/UML.png" alt="Media Streaming Service">
+  <img src="img/UML.svg" alt="Media Streaming Service">
